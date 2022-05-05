@@ -1,0 +1,142 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+
+}
+
+
+header{
+    background-color: blue;
+    width: 1920px;
+    height: 388px;
+    margin-top: 140px;
+    margin-left: 100px;
+    margin-right:  100px;
+    margin-bottom: -200px;
+
+    padding-top: 40px;
+    padding-right: 100px;
+    padding-left: 240px;
+    padding-bottom: 282px ;
+
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    list-style-type: none;
+}
+li{
+    list-style-type: none;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+}
+ul,li a{
+    vertical-align: middle;
+    color: white;
+    margin-right: 40px;
+    text-decoration: none;
+    padding-bottom: 90px;
+
+}
+nav {
+    display: inline-block;
+    color: white;
+}
+.IMGG{
+    margin-left: 200px;
+}
+.contact a{
+    color: black;
+    background-color: white;
+    border-radius: 28px;
+    width: 160px;
+    padding: 18px 43px 18px 36px;
+}
+.LOGO{
+    margin-right: 500px;
+}
+h1{
+    margin-left: 200px;
+}
+div{
+    display: inline-block;
+    margin-left: 200px;
+    padding-right: 40px;
+}
+.p1{
+    width: 951px;
+    height: 177px;
+    margin-left: 300px;
+    margin-bottom: -19px;
+}
+.second{
+    width: 951px;
+    height: 177px;
+    margin-left: 300px;
+}
+.third{
+    width: 951px;
+    height: 177px;
+    margin-left: 300px;
+    margin-top: 20px;
+} 
+button{
+    color: white;
+    background-color: blue;
+    width: 280px;
+    height: 55px;
+    border-radius: 30px;
+    margin-left: 630px;
+    margin-bottom: 100px;
+
+}
+footer{
+    width: 1000px;
+    height: 800px;
+    background-color: blue;
+    margin-left: 450px;   
+}
+h5{
+    color: white;
+    padding-top: 700px;
+    margin-left: 560px;
+}
+h4{
+    color: white;
+    padding-bottom: 50px;
+
+}
+
+section p{
+    font-family: "ALK Life", sans-serif;
+
+}
+.map{
+    width: 200px;
+    height: 100px;
+    margin-top: -400px;
+    border-radius: 100px;
+}
+.kontakti{
+    position: absolute;
+    top: 2000px;
+    color: white;
+    font-size: 30px;
+
+}
+.paragrafi{
+    color: white;
+    width: 400px;
+    height: 99px;
+    position: absolute;
+    top: 2050px;
+}
